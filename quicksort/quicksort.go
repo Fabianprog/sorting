@@ -19,5 +19,5 @@ func Partition(arr []int) int {
 
 // QuickSort sortiert die übergebene Liste mittels des Quick-Sort-Algorithmus.
 func QuickSort(arr []int) {
-	// TODO
+
 }
